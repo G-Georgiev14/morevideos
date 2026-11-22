@@ -1,0 +1,1261 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "lines": [
+    [
+      {
+        "text": "What",
+        "start": 0.1255,
+        "end": 0.2353
+      },
+      {
+        "text": "if",
+        "start": 0.251,
+        "end": 0.3922
+      },
+      {
+        "text": "Earth",
+        "start": 0.4079,
+        "end": 0.6118
+      },
+      {
+        "text": "suddenly",
+        "start": 0.6275,
+        "end": 1.1295
+      },
+      {
+        "text": "became",
+        "start": 1.1452,
+        "end": 1.6628
+      },
+      {
+        "text": "twice",
+        "start": 1.6785,
+        "end": 2.1962
+      },
+      {
+        "text": "as",
+        "start": 2.2119,
+        "end": 2.3531
+      },
+      {
+        "text": "big?",
+        "start": 2.3688,
+        "end": 2.8394
+      }
+    ],
+    [
+      {
+        "text": "Not",
+        "start": 3.4386,
+        "end": 3.5955
+      },
+      {
+        "text": "just",
+        "start": 3.6112,
+        "end": 3.8622
+      },
+      {
+        "text": "wider.",
+        "start": 3.8779,
+        "end": 4.3798
+      },
+      {
+        "text": "Its",
+        "start": 5.7879,
+        "end": 5.9605
+      },
+      {
+        "text": "radius",
+        "start": 5.9762,
+        "end": 6.5409
+      },
+      {
+        "text": "doubles,",
+        "start": 6.5566,
+        "end": 7.1527
+      },
+      {
+        "text": "while",
+        "start": 7.4664,
+        "end": 7.639
+      },
+      {
+        "text": "its",
+        "start": 7.6547,
+        "end": 7.8429
+      },
+      {
+        "text": "density",
+        "start": 7.8586,
+        "end": 8.4547
+      },
+      {
+        "text": "stays",
+        "start": 8.4704,
+        "end": 8.9253
+      },
+      {
+        "text": "the",
+        "start": 8.941,
+        "end": 9.0351
+      },
+      {
+        "text": "same.",
+        "start": 9.0508,
+        "end": 9.5842
+      }
+    ],
+    [
+      {
+        "text": "That",
+        "start": 10.1853,
+        "end": 10.3422
+      },
+      {
+        "text": "means",
+        "start": 10.3579,
+        "end": 10.7814
+      },
+      {
+        "text": "Earth",
+        "start": 10.9069,
+        "end": 11.1893
+      },
+      {
+        "text": "would",
+        "start": 11.205,
+        "end": 11.3619
+      },
+      {
+        "text": "have",
+        "start": 11.3775,
+        "end": 11.6599
+      },
+      {
+        "text": "eight",
+        "start": 11.8638,
+        "end": 12.1148
+      },
+      {
+        "text": "times",
+        "start": 12.1305,
+        "end": 12.7423
+      },
+      {
+        "text": "its",
+        "start": 12.758,
+        "end": 12.8992
+      },
+      {
+        "text": "original",
+        "start": 12.9149,
+        "end": 13.4482
+      },
+      {
+        "text": "mass.",
+        "start": 13.4639,
+        "end": 14.1855
+      }
+    ],
+    [
+      {
+        "text": "And",
+        "start": 14.7634,
+        "end": 14.8419
+      },
+      {
+        "text": "gravity?",
+        "start": 14.8576,
+        "end": 15.438
+      },
+      {
+        "text": "It",
+        "start": 17.1127,
+        "end": 17.1912
+      },
+      {
+        "text": "would",
+        "start": 17.2069,
+        "end": 17.3324
+      },
+      {
+        "text": "become",
+        "start": 17.3481,
+        "end": 17.85
+      },
+      {
+        "text": "roughly",
+        "start": 17.8657,
+        "end": 18.3207
+      },
+      {
+        "text": "twice",
+        "start": 18.3363,
+        "end": 18.9168
+      },
+      {
+        "text": "as",
+        "start": 18.9324,
+        "end": 19.0736
+      },
+      {
+        "text": "strong",
+        "start": 19.0893,
+        "end": 19.6854
+      },
+      {
+        "text": "at",
+        "start": 19.7011,
+        "end": 19.7952
+      },
+      {
+        "text": "the",
+        "start": 19.8109,
+        "end": 19.8894
+      },
+      {
+        "text": "surface.",
+        "start": 19.905,
+        "end": 20.6894
+      }
+    ],
+    [
+      {
+        "text": "Walking",
+        "start": 21.2849,
+        "end": 21.6927
+      },
+      {
+        "text": "suddenly",
+        "start": 21.7084,
+        "end": 22.1947
+      },
+      {
+        "text": "becomes",
+        "start": 22.2104,
+        "end": 22.6497
+      },
+      {
+        "text": "harder.",
+        "start": 22.6654,
+        "end": 23.1987
+      },
+      {
+        "text": "Jumping",
+        "start": 23.7164,
+        "end": 24.0772
+      },
+      {
+        "text": "becomes",
+        "start": 24.0929,
+        "end": 24.5949
+      },
+      {
+        "text": "nearly",
+        "start": 24.6106,
+        "end": 25.1282
+      },
+      {
+        "text": "impossible",
+        "start": 25.1439,
+        "end": 25.9596
+      },
+      {
+        "text": "for",
+        "start": 25.9753,
+        "end": 26.2577
+      },
+      {
+        "text": "ordinary",
+        "start": 26.2734,
+        "end": 26.8381
+      },
+      {
+        "text": "people",
+        "start": 26.8538,
+        "end": 27.3087
+      },
+      {
+        "text": "to",
+        "start": 27.3244,
+        "end": 27.4342
+      },
+      {
+        "text": "do",
+        "start": 27.4499,
+        "end": 27.795
+      },
+      {
+        "text": "like",
+        "start": 27.8107,
+        "end": 28.0931
+      },
+      {
+        "text": "before.",
+        "start": 28.1088,
+        "end": 28.7519
+      },
+      {
+        "text": "Buildings,",
+        "start": 29.2696,
+        "end": 30.0069
+      },
+      {
+        "text": "bridges",
+        "start": 30.2422,
+        "end": 30.8383
+      },
+      {
+        "text": "and",
+        "start": 30.854,
+        "end": 30.9795
+      },
+      {
+        "text": "infrastructure",
+        "start": 30.9952,
+        "end": 31.9364
+      },
+      {
+        "text": "would",
+        "start": 31.9521,
+        "end": 32.1404
+      },
+      {
+        "text": "face",
+        "start": 32.156,
+        "end": 32.6267
+      },
+      {
+        "text": "enormous",
+        "start": 32.6423,
+        "end": 33.2855
+      },
+      {
+        "text": "stress,",
+        "start": 33.3012,
+        "end": 34.0228
+      },
+      {
+        "text": "depending",
+        "start": 34.3052,
+        "end": 34.7444
+      },
+      {
+        "text": "on",
+        "start": 34.7601,
+        "end": 34.8699
+      },
+      {
+        "text": "how",
+        "start": 34.8856,
+        "end": 35.0425
+      },
+      {
+        "text": "the",
+        "start": 35.0582,
+        "end": 35.168
+      },
+      {
+        "text": "transformation",
+        "start": 35.1837,
+        "end": 36.0464
+      },
+      {
+        "text": "happened.",
+        "start": 36.0621,
+        "end": 36.6112
+      }
+    ],
+    [
+      {
+        "text": "The",
+        "start": 37.2023,
+        "end": 37.3278
+      },
+      {
+        "text": "atmosphere",
+        "start": 37.3435,
+        "end": 38.018
+      },
+      {
+        "text": "would",
+        "start": 38.0337,
+        "end": 38.2062
+      },
+      {
+        "text": "also",
+        "start": 38.2219,
+        "end": 38.6298
+      },
+      {
+        "text": "be",
+        "start": 38.6455,
+        "end": 38.8494
+      },
+      {
+        "text": "affected",
+        "start": 38.8651,
+        "end": 39.4926
+      },
+      {
+        "text": "by",
+        "start": 39.5083,
+        "end": 39.6495
+      },
+      {
+        "text": "the",
+        "start": 39.6651,
+        "end": 39.775
+      },
+      {
+        "text": "planet's",
+        "start": 39.7906,
+        "end": 40.5593
+      },
+      {
+        "text": "stronger",
+        "start": 40.6534,
+        "end": 41.1868
+      },
+      {
+        "text": "gravity.",
+        "start": 41.2025,
+        "end": 41.7986
+      }
+    ],
+    [
+      {
+        "text": "Oceans,",
+        "start": 42.3828,
+        "end": 43.1044
+      },
+      {
+        "text": "mountains",
+        "start": 43.3868,
+        "end": 44.0927
+      },
+      {
+        "text": "and",
+        "start": 44.2025,
+        "end": 44.3437
+      },
+      {
+        "text": "the",
+        "start": 44.3594,
+        "end": 44.4378
+      },
+      {
+        "text": "entire",
+        "start": 44.4535,
+        "end": 45.0339
+      },
+      {
+        "text": "landscape",
+        "start": 45.0496,
+        "end": 45.7555
+      },
+      {
+        "text": "would",
+        "start": 45.881,
+        "end": 46.0065
+      },
+      {
+        "text": "be",
+        "start": 46.0222,
+        "end": 46.1477
+      },
+      {
+        "text": "transformed.",
+        "start": 46.1634,
+        "end": 47.136
+      }
+    ],
+    [
+      {
+        "text": "And",
+        "start": 47.7296,
+        "end": 47.808
+      },
+      {
+        "text": "here's",
+        "start": 47.8237,
+        "end": 48.1374
+      },
+      {
+        "text": "the",
+        "start": 48.1531,
+        "end": 48.2629
+      },
+      {
+        "text": "crazy",
+        "start": 48.2786,
+        "end": 48.7179
+      },
+      {
+        "text": "part.",
+        "start": 48.7335,
+        "end": 49.1885
+      }
+    ],
+    [
+      {
+        "text": "Earth",
+        "start": 50.0632,
+        "end": 50.2671
+      },
+      {
+        "text": "wouldn't",
+        "start": 50.2828,
+        "end": 50.5809
+      },
+      {
+        "text": "just",
+        "start": 50.5965,
+        "end": 50.8475
+      },
+      {
+        "text": "be",
+        "start": 50.8632,
+        "end": 51.0201
+      },
+      {
+        "text": "a",
+        "start": 51.0358,
+        "end": 51.1142
+      },
+      {
+        "text": "bigger",
+        "start": 51.1299,
+        "end": 51.4593
+      },
+      {
+        "text": "planet.",
+        "start": 51.475,
+        "end": 51.9927
+      },
+      {
+        "text": "It",
+        "start": 52.5104,
+        "end": 52.5731
+      },
+      {
+        "text": "would",
+        "start": 52.5888,
+        "end": 52.73
+      },
+      {
+        "text": "be",
+        "start": 52.7457,
+        "end": 52.9025
+      },
+      {
+        "text": "a",
+        "start": 52.9182,
+        "end": 52.981
+      },
+      {
+        "text": "completely",
+        "start": 52.9967,
+        "end": 53.6712
+      },
+      {
+        "text": "different",
+        "start": 53.6869,
+        "end": 54.0634
+      },
+      {
+        "text": "world.",
+        "start": 54.0791,
+        "end": 54.5026
+      }
+    ],
+    [
+      {
+        "text": "But",
+        "start": 55.1088,
+        "end": 55.2186
+      },
+      {
+        "text": "could",
+        "start": 55.2343,
+        "end": 55.4225
+      },
+      {
+        "text": "humanity",
+        "start": 55.4382,
+        "end": 56.1284
+      },
+      {
+        "text": "adapt",
+        "start": 56.1441,
+        "end": 56.6775
+      },
+      {
+        "text": "to",
+        "start": 56.6932,
+        "end": 56.8344
+      },
+      {
+        "text": "living",
+        "start": 56.8501,
+        "end": 57.1952
+      },
+      {
+        "text": "on",
+        "start": 57.2109,
+        "end": 57.3991
+      },
+      {
+        "text": "it?",
+        "start": 57.4148,
+        "end": 57.6187
+      }
+    ]
+  ],
+  "captions": [
+    [
+      {
+        "text": "What",
+        "start": 0.1255,
+        "end": 0.2353
+      },
+      {
+        "text": "if",
+        "start": 0.251,
+        "end": 0.3922
+      },
+      {
+        "text": "Earth",
+        "start": 0.4079,
+        "end": 0.6118
+      },
+      {
+        "text": "suddenly",
+        "start": 0.6275,
+        "end": 1.1295
+      },
+      {
+        "text": "became",
+        "start": 1.1452,
+        "end": 1.6628
+      },
+      {
+        "text": "twice",
+        "start": 1.6785,
+        "end": 2.1962
+      }
+    ],
+    [
+      {
+        "text": "as",
+        "start": 2.2119,
+        "end": 2.3531
+      },
+      {
+        "text": "big?",
+        "start": 2.3688,
+        "end": 2.8394
+      }
+    ],
+    [
+      {
+        "text": "Not",
+        "start": 3.4386,
+        "end": 3.5955
+      },
+      {
+        "text": "just",
+        "start": 3.6112,
+        "end": 3.8622
+      },
+      {
+        "text": "wider.",
+        "start": 3.8779,
+        "end": 4.3798
+      }
+    ],
+    [
+      {
+        "text": "Its",
+        "start": 5.7879,
+        "end": 5.9605
+      },
+      {
+        "text": "radius",
+        "start": 5.9762,
+        "end": 6.5409
+      },
+      {
+        "text": "doubles,",
+        "start": 6.5566,
+        "end": 7.1527
+      },
+      {
+        "text": "while",
+        "start": 7.4664,
+        "end": 7.639
+      },
+      {
+        "text": "its",
+        "start": 7.6547,
+        "end": 7.8429
+      },
+      {
+        "text": "density",
+        "start": 7.8586,
+        "end": 8.4547
+      }
+    ],
+    [
+      {
+        "text": "stays",
+        "start": 8.4704,
+        "end": 8.9253
+      },
+      {
+        "text": "the",
+        "start": 8.941,
+        "end": 9.0351
+      },
+      {
+        "text": "same.",
+        "start": 9.0508,
+        "end": 9.5842
+      }
+    ],
+    [
+      {
+        "text": "That",
+        "start": 10.1853,
+        "end": 10.3422
+      },
+      {
+        "text": "means",
+        "start": 10.3579,
+        "end": 10.7814
+      },
+      {
+        "text": "Earth",
+        "start": 10.9069,
+        "end": 11.1893
+      },
+      {
+        "text": "would",
+        "start": 11.205,
+        "end": 11.3619
+      },
+      {
+        "text": "have",
+        "start": 11.3775,
+        "end": 11.6599
+      },
+      {
+        "text": "eight",
+        "start": 11.8638,
+        "end": 12.1148
+      }
+    ],
+    [
+      {
+        "text": "times",
+        "start": 12.1305,
+        "end": 12.7423
+      },
+      {
+        "text": "its",
+        "start": 12.758,
+        "end": 12.8992
+      },
+      {
+        "text": "original",
+        "start": 12.9149,
+        "end": 13.4482
+      },
+      {
+        "text": "mass.",
+        "start": 13.4639,
+        "end": 14.1855
+      }
+    ],
+    [
+      {
+        "text": "And",
+        "start": 14.7634,
+        "end": 14.8419
+      },
+      {
+        "text": "gravity?",
+        "start": 14.8576,
+        "end": 15.438
+      }
+    ],
+    [
+      {
+        "text": "It",
+        "start": 17.1127,
+        "end": 17.1912
+      },
+      {
+        "text": "would",
+        "start": 17.2069,
+        "end": 17.3324
+      },
+      {
+        "text": "become",
+        "start": 17.3481,
+        "end": 17.85
+      },
+      {
+        "text": "roughly",
+        "start": 17.8657,
+        "end": 18.3207
+      },
+      {
+        "text": "twice",
+        "start": 18.3363,
+        "end": 18.9168
+      },
+      {
+        "text": "as",
+        "start": 18.9324,
+        "end": 19.0736
+      }
+    ],
+    [
+      {
+        "text": "strong",
+        "start": 19.0893,
+        "end": 19.6854
+      },
+      {
+        "text": "at",
+        "start": 19.7011,
+        "end": 19.7952
+      },
+      {
+        "text": "the",
+        "start": 19.8109,
+        "end": 19.8894
+      },
+      {
+        "text": "surface.",
+        "start": 19.905,
+        "end": 20.6894
+      }
+    ],
+    [
+      {
+        "text": "Walking",
+        "start": 21.2849,
+        "end": 21.6927
+      },
+      {
+        "text": "suddenly",
+        "start": 21.7084,
+        "end": 22.1947
+      },
+      {
+        "text": "becomes",
+        "start": 22.2104,
+        "end": 22.6497
+      },
+      {
+        "text": "harder.",
+        "start": 22.6654,
+        "end": 23.1987
+      }
+    ],
+    [
+      {
+        "text": "Jumping",
+        "start": 23.7164,
+        "end": 24.0772
+      },
+      {
+        "text": "becomes",
+        "start": 24.0929,
+        "end": 24.5949
+      },
+      {
+        "text": "nearly",
+        "start": 24.6106,
+        "end": 25.1282
+      },
+      {
+        "text": "impossible",
+        "start": 25.1439,
+        "end": 25.9596
+      },
+      {
+        "text": "for",
+        "start": 25.9753,
+        "end": 26.2577
+      },
+      {
+        "text": "ordinary",
+        "start": 26.2734,
+        "end": 26.8381
+      }
+    ],
+    [
+      {
+        "text": "people",
+        "start": 26.8538,
+        "end": 27.3087
+      },
+      {
+        "text": "to",
+        "start": 27.3244,
+        "end": 27.4342
+      },
+      {
+        "text": "do",
+        "start": 27.4499,
+        "end": 27.795
+      },
+      {
+        "text": "like",
+        "start": 27.8107,
+        "end": 28.0931
+      },
+      {
+        "text": "before.",
+        "start": 28.1088,
+        "end": 28.7519
+      }
+    ],
+    [
+      {
+        "text": "Buildings,",
+        "start": 29.2696,
+        "end": 30.0069
+      },
+      {
+        "text": "bridges",
+        "start": 30.2422,
+        "end": 30.8383
+      },
+      {
+        "text": "and",
+        "start": 30.854,
+        "end": 30.9795
+      },
+      {
+        "text": "infrastructure",
+        "start": 30.9952,
+        "end": 31.9364
+      },
+      {
+        "text": "would",
+        "start": 31.9521,
+        "end": 32.1404
+      },
+      {
+        "text": "face",
+        "start": 32.156,
+        "end": 32.6267
+      }
+    ],
+    [
+      {
+        "text": "enormous",
+        "start": 32.6423,
+        "end": 33.2855
+      },
+      {
+        "text": "stress,",
+        "start": 33.3012,
+        "end": 34.0228
+      },
+      {
+        "text": "depending",
+        "start": 34.3052,
+        "end": 34.7444
+      },
+      {
+        "text": "on",
+        "start": 34.7601,
+        "end": 34.8699
+      },
+      {
+        "text": "how",
+        "start": 34.8856,
+        "end": 35.0425
+      },
+      {
+        "text": "the",
+        "start": 35.0582,
+        "end": 35.168
+      }
+    ],
+    [
+      {
+        "text": "transformation",
+        "start": 35.1837,
+        "end": 36.0464
+      },
+      {
+        "text": "happened.",
+        "start": 36.0621,
+        "end": 36.6112
+      }
+    ],
+    [
+      {
+        "text": "The",
+        "start": 37.2023,
+        "end": 37.3278
+      },
+      {
+        "text": "atmosphere",
+        "start": 37.3435,
+        "end": 38.018
+      },
+      {
+        "text": "would",
+        "start": 38.0337,
+        "end": 38.2062
+      },
+      {
+        "text": "also",
+        "start": 38.2219,
+        "end": 38.6298
+      },
+      {
+        "text": "be",
+        "start": 38.6455,
+        "end": 38.8494
+      },
+      {
+        "text": "affected",
+        "start": 38.8651,
+        "end": 39.4926
+      }
+    ],
+    [
+      {
+        "text": "by",
+        "start": 39.5083,
+        "end": 39.6495
+      },
+      {
+        "text": "the",
+        "start": 39.6651,
+        "end": 39.775
+      },
+      {
+        "text": "planet's",
+        "start": 39.7906,
+        "end": 40.5593
+      },
+      {
+        "text": "stronger",
+        "start": 40.6534,
+        "end": 41.1868
+      },
+      {
+        "text": "gravity.",
+        "start": 41.2025,
+        "end": 41.7986
+      }
+    ],
+    [
+      {
+        "text": "Oceans,",
+        "start": 42.3828,
+        "end": 43.1044
+      },
+      {
+        "text": "mountains",
+        "start": 43.3868,
+        "end": 44.0927
+      },
+      {
+        "text": "and",
+        "start": 44.2025,
+        "end": 44.3437
+      },
+      {
+        "text": "the",
+        "start": 44.3594,
+        "end": 44.4378
+      },
+      {
+        "text": "entire",
+        "start": 44.4535,
+        "end": 45.0339
+      },
+      {
+        "text": "landscape",
+        "start": 45.0496,
+        "end": 45.7555
+      }
+    ],
+    [
+      {
+        "text": "would",
+        "start": 45.881,
+        "end": 46.0065
+      },
+      {
+        "text": "be",
+        "start": 46.0222,
+        "end": 46.1477
+      },
+      {
+        "text": "transformed.",
+        "start": 46.1634,
+        "end": 47.136
+      }
+    ],
+    [
+      {
+        "text": "And",
+        "start": 47.7296,
+        "end": 47.808
+      },
+      {
+        "text": "here's",
+        "start": 47.8237,
+        "end": 48.1374
+      },
+      {
+        "text": "the",
+        "start": 48.1531,
+        "end": 48.2629
+      },
+      {
+        "text": "crazy",
+        "start": 48.2786,
+        "end": 48.7179
+      },
+      {
+        "text": "part.",
+        "start": 48.7335,
+        "end": 49.1885
+      }
+    ],
+    [
+      {
+        "text": "Earth",
+        "start": 50.0632,
+        "end": 50.2671
+      },
+      {
+        "text": "wouldn't",
+        "start": 50.2828,
+        "end": 50.5809
+      },
+      {
+        "text": "just",
+        "start": 50.5965,
+        "end": 50.8475
+      },
+      {
+        "text": "be",
+        "start": 50.8632,
+        "end": 51.0201
+      },
+      {
+        "text": "a",
+        "start": 51.0358,
+        "end": 51.1142
+      },
+      {
+        "text": "bigger",
+        "start": 51.1299,
+        "end": 51.4593
+      }
+    ],
+    [
+      {
+        "text": "planet.",
+        "start": 51.475,
+        "end": 51.9927
+      }
+    ],
+    [
+      {
+        "text": "It",
+        "start": 52.5104,
+        "end": 52.5731
+      },
+      {
+        "text": "would",
+        "start": 52.5888,
+        "end": 52.73
+      },
+      {
+        "text": "be",
+        "start": 52.7457,
+        "end": 52.9025
+      },
+      {
+        "text": "a",
+        "start": 52.9182,
+        "end": 52.981
+      },
+      {
+        "text": "completely",
+        "start": 52.9967,
+        "end": 53.6712
+      },
+      {
+        "text": "different",
+        "start": 53.6869,
+        "end": 54.0634
+      }
+    ],
+    [
+      {
+        "text": "world.",
+        "start": 54.0791,
+        "end": 54.5026
+      }
+    ],
+    [
+      {
+        "text": "But",
+        "start": 55.1088,
+        "end": 55.2186
+      },
+      {
+        "text": "could",
+        "start": 55.2343,
+        "end": 55.4225
+      },
+      {
+        "text": "humanity",
+        "start": 55.4382,
+        "end": 56.1284
+      },
+      {
+        "text": "adapt",
+        "start": 56.1441,
+        "end": 56.6775
+      },
+      {
+        "text": "to",
+        "start": 56.6932,
+        "end": 56.8344
+      },
+      {
+        "text": "living",
+        "start": 56.8501,
+        "end": 57.1952
+      }
+    ],
+    [
+      {
+        "text": "on",
+        "start": 57.2109,
+        "end": 57.3991
+      },
+      {
+        "text": "it?",
+        "start": 57.4148,
+        "end": 57.6187
+      }
+    ]
+  ]
+}
