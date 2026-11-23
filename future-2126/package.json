@@ -1,0 +1,16 @@
+{
+  "name": "future-2126",
+  "private": true,
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.545",
+    "@remotion/three": "4.0.545",
+    "@react-three/fiber": "9.5.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.545",
+    "three": "0.182.0"
+  }
+}
