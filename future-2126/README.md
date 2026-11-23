@@ -1,6 +1,6 @@
 # What If You Woke Up 100 Years in the Future?
 
-A 60-second, 20-shot science-fiction short. The video exports at 1080 × 1920 and 30 fps, with burned-in animated captions. The original character rigs, buildings, props, HUD, camera moves, wipes, and typography are drawn procedurally in Python. The drawing canvas is 540 × 960, scaled with Lanczos during export. No footage or downloaded reference frames appear in the render.
+A 60-second, 20-shot illustrated science-fiction short. The video exports at 1080 × 1920 and 30 fps with burned-in animated captions. Each shot uses a separate original illustration in `assets/shots/`. The compositor layers camera moves, localized image warps, atmosphere, and typography on top. The narration, score, sound effects, and three-second shot timing are those of the original cut.
 
 The finished video and thumbnail are in `out/`. The standalone subtitles are in `assets/subtitles.srt`.
 
@@ -13,11 +13,11 @@ python -m pip install numpy pillow
 python render.py
 ```
 
-The supplied stems, mix, and subtitle timing let you re-render offline. FFmpeg writes `export/what-if-2126.mp4`. The same command draws `export/thumbnail.png`. To review representative frames first, run `python render.py --stills --output previews`.
+The supplied stems, mix, and subtitle timing let you re-render offline. FFmpeg writes `out/what-if-2126.mp4`. The same command renders `out/thumbnail.png`. To review representative frames first, run `python render.py --stills --output previews`.
 
 ## Edit the short
 
-- Change the draw routines and shot sections in `render.py` to edit characters, scenes, lighting, or motion. Each shot is 90 frames at 30 fps.
+- Replace a numbered JPEG in `assets/shots/` to change a composition. In `render.py`, edit `CAMERA` for reframing and `MOTION` for localized movement. The camera operates on a 720 × 1280 canvas before the 1080 × 1920 export. Each shot is 90 frames at 30 fps.
 - Change the narration and scene timing in `audio.py`. The bundled track uses the Piper US English Lessac medium voice. To synthesize new dialogue with that voice, install `piper-tts`, download the Lessac medium ONNX model and its matching JSON configuration, and run the command below.
 - The subtitle text appears in both `assets/captions.json` for burn-in and `assets/subtitles.srt` for upload. Phrase timings are estimated from the fitted narration segments. When editing manually, update both files.
 - `assets/narration.wav`, `assets/music.wav`, and `assets/effects.wav` are separate stems. The procedural score and effects are generated in `audio.py`. `assets/mix.wav` is the export mix.
