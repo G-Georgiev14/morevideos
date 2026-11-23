@@ -1,6 +1,6 @@
 # What If You Woke Up 100 Years in the Future?
 
-A 60-second, 20-shot illustrated science-fiction short. The video exports at 1080 × 1920 and 30 fps with burned-in animated captions. Each shot uses a separate original illustration in `assets/shots/`. The compositor layers camera moves, localized image warps, atmosphere, and typography on top. The narration, score, sound effects, and three-second shot timing are those of the original cut.
+A 60-second, 20-shot animated stickman explainer. Every human is drawn from the same articulated rig, including crowds and the figures in the photograph. Each frame is drawn from scene geometry. The renderer interpolates poses, solves hand contact for props, cycles footfalls, and moves separate vehicles and machines through the set. The export is 1080 × 1920 at 30 fps.
 
 The finished video and thumbnail are in `out/`. The standalone subtitles are in `assets/subtitles.srt`.
 
@@ -17,7 +17,8 @@ The supplied stems, mix, and subtitle timing let you re-render offline. FFmpeg w
 
 ## Edit the short
 
-- Replace a numbered JPEG in `assets/shots/` to change a composition. In `render.py`, edit `CAMERA` for reframing and `MOTION` for localized movement. The camera operates on a 720 × 1280 canvas before the 1080 × 1920 export. Each shot is 90 frames at 30 fps.
+- Edit the corresponding branch of `scene()` in `render.py` to change a shot. `rig()` draws the stickman, `walker()` drives each foot and arm, and `arm_to()` solves the elbow and wrist. The canvas is 540 × 960 and FFmpeg scales the export to 1080 × 1920. Each shot is 90 frames at 30 fps.
+- Set `STICKMAN_FIXED_CAMERA=1` before running the renderer to review character, prop, and vehicle animation with the camera locked.
 - Change the narration and scene timing in `audio.py`. The bundled track uses the Piper US English Lessac medium voice. To synthesize new dialogue with that voice, install `piper-tts`, download the Lessac medium ONNX model and its matching JSON configuration, and run the command below.
 - The subtitle text appears in both `assets/captions.json` for burn-in and `assets/subtitles.srt` for upload. Phrase timings are estimated from the fitted narration segments. When editing manually, update both files.
 - `assets/narration.wav`, `assets/music.wav`, and `assets/effects.wav` are separate stems. The procedural score and effects are generated in `audio.py`. `assets/mix.wav` is the export mix.
